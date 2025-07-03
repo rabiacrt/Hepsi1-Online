@@ -1,2 +1,9 @@
-This website is dedicated to the field of entertainment and media. The purpose of our website is to introduce a music band.
-The band we are showcasing is called "Hepsi 1." Although they were once very popular, they are currently inactive.
+# 🎵 Hepsi1-Online
+
+**Technologies:** CSS, PHP, JavaScript
+
+This website is dedicated to the field of entertainment and media. Its main purpose is to introduce and showcase the music band **"Hepsi 1."**
+
+Although the band was once very popular, they are currently inactive. This site aims to celebrate their music legacy and share information about their journey and achievements.
+
+---
